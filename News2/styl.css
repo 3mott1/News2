@@ -1,0 +1,69 @@
+body{
+    background: #3f3e3e;
+}
+p{
+    color: indigo;
+}
+.datetime{
+    color: cadetblue;
+}
+.zag{
+    color: darkgrey;
+}
+.text1{color: hotpink;
+}
+.text2{color: gold;
+}
+.text3{color: green;
+}
+.text4{color: yellowgreen;
+}
+.name{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.pon{
+    font-size: 25px;
+    font-style: oblique;
+    text-decoration: overline;
+}
+.abc{
+    font-style: oblique;
+    text-decoration: underline;
+}
+.qwe:hover{
+    color:red;
+    font-weight: bold;
+}
+.qwe{
+    color:blue;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer; 
+}
+.image{
+    border: 3px solid transparent;
+}
+.image:hover{
+    border: 3px solid blue;
+    cursor: pointer;
+}
+.site:link{
+    color:black;
+}
+.site:visited{
+    color: black;
+}
+.site:active{
+    color: red;
+    font-size: 25px;
+}
+.site:hover{
+    text-decoration: line-through;
+}
+#sp1{
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: underline;
+}
